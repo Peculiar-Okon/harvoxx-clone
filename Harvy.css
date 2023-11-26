@@ -1,0 +1,177 @@
+.class-1 ul{
+    display:flex;
+    list-style-type: none;
+    gap: 2rem;
+}
+li a{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #adc7de;
+    text-align: right;
+}
+.class-1{
+    float: right;
+    margin-right: 110px;
+    top: 0px;
+}
+.header-1{
+    letter-spacing: 3px;
+    font-size: 24px;
+    color: #ffffff;
+    font-family: Poppins, sans-serif;
+    margin-top: 0px;
+    margin-left: 141px;
+    font-weight: 700;
+}
+.pchange{
+    color: #adc7de;
+    margin-left: 141px;
+    font-family: poppins, sans-serif;
+    margin-top: 126px;
+    font-size: 35px;
+    font-weight: 700;
+}
+.p1{
+    color: #ffffff;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 141px;
+    line-height: 24px;
+}
+.p2{
+    color: #ffffff;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 141px;
+    line-height: 24px;
+}
+.p3{
+    color: #ffffff;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 141px;
+    line-height: 24px;
+}
+.img-cont{
+    float: right;
+    top: 110px;
+    margin-right: 93px;
+    right: 0px;
+    margin-top: 0px;
+    position: absolute;
+}
+.img-per{
+    position: absolute;
+    margin-top: 60px;
+    left: 111px;
+}
+.ndone{
+    text-align: left;
+    color: #213b52;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    margin-top: 70px;
+    left: 644px;
+    position: absolute;
+}
+.killy{
+    text-align: left;
+    color: #444444;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    margin-top: 120px;
+    left: 644px;
+    position: absolute;
+}
+.meee{
+    text-align: left;
+    color: #213b52;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-top: 246px;
+    left: 712px;
+    position: absolute;
+    font-weight: 700;
+}
+.naaahh{
+    text-align: left;
+    color: #848484;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    margin-top: 286px;
+    left: 712px;
+    position: absolute;
+}
+.work{
+    text-align: left;
+    color: #213b52;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-top: 240px;
+    left: 1031px;
+    position: absolute;
+    font-weight: 700;
+}
+.Normally{
+    text-align: left;
+    color: #848484;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    margin-top: 280px;
+    left: 1031px;
+    position: absolute;
+}
+.riri{
+    text-align: left;
+    color: #213b52;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-top: 460px;
+    left: 712px;
+    position: absolute;
+    font-weight: 700;
+}
+.Angel{
+    text-align: left;
+    color: #848484;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    margin-top: 513px;
+    left: 712px;
+    position: absolute;
+}
+.girls{
+    text-align: left;
+    color: #213b52;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-top: 460px;
+    left: 1031px;
+    position: absolute;
+    font-weight: 700;
+}
+.doings{
+    text-align: left;
+    color: #848484;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    margin-top: 513px;
+    left: 1031px;
+    position: absolute;
+}
+.someone{
+    text-align: left;
+    color: #213b52;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    margin-top: 30px;
+    position: absolute;
+    left: 604px;
+    font-weight: 700;
+}
