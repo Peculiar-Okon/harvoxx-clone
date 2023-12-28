@@ -170,8 +170,204 @@ li a{
     color: #213b52;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 32px;
-    margin-top: 30px;
+    margin-top: 60px;
     position: absolute;
     left: 604px;
     font-weight: 700;
+}
+.top{
+    text-align: left;
+    color: #848484;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin-top: 138px;
+    position: absolute;
+    left: 126px;
+    line-height: 24px;
+}
+.image-container {
+    position: absolute;
+    width:  600px;/* Set your desired width */
+    height: 500px; /* Set your desired height */
+    margin-left: 126px;
+    margin-top: 220px;
+  }
+  
+  .img-container img {
+    width: 600px;
+    height: auto;
+  }
+  
+  .card {
+    position: absolute;
+    top: 300px;
+    left: 20px;
+    background-color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #213b52;
+    padding: 35px
+  }
+
+  .image-container:hover img {
+    transform: scale(1.1); /* Scaling the image on hover */
+  }
+  
+  
+  .imgimg{
+    position: absolute;
+    margin-top: 220px;
+    left: 700px;
+    float: right;
+    height: 200px;
+    width: 200px;
+  }
+
+  .imgimg img{
+    width: 600px;
+    height: auto;
+    transition: transform 0.3s ease; 
+  }
+  .imgimg:hover img{
+    transform: scale(1.1);
+  }
+
+  .kardi{
+    position: absolute;
+    top: 300px;
+    background-color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #213b52;
+    padding: 20px;
+    left: 30px;
+    width: 400px;
+  }
+
+  .imgooo{
+    position: absolute;
+    left: 126px;
+  }
+  .imgaaa{
+    position: absolute;
+    left: 700px;
+  }
+
+  .imguuu{
+    position: absolute;
+    left: 260px;
+  }
+  .ikuu{
+    position: absolute;
+    left: 600px;
+    font-weight: 700;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 100px;
+    color: #213b52;
+  }
+  .ruuu{
+    position: absolute;
+    margin-top: 70px;
+    left: 600px;
+    font-weight: 700;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #213b52;
+  }
+  .odiri{
+    width: 600px;
+    border: #ffffff;
+    padding: 5px;
+    margin: 0px;
+    position: absolute;
+    margin-top: 200px;
+    left: 100px;
+    background-color: #ffffff;
+  }
+  .dirt{
+    text-align: center;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 80px;
+    color: #777777;
+  }
+.ph{
+  font-weight: 600;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #444444;
+  text-align: center;
+}
+.pract{
+  width: 270px;
+  border: #ffffff;
+  padding: 5px;
+  margin: 0px;
+  position: absolute;
+  margin-top: 420px;
+  left: 100px;
+  background-color: #ffffff;
+}
+.arial{
+  text-align: center;
+  font-weight: 600;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 50px;
+  color: #444444;
+}
+.men{
+  font-weight: 600;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  color: #777777;
+}
+.cra{
+  width: 270px;
+  border: #ffffff;
+  padding: 5px;
+  margin: 0px;
+  position: absolute;
+  margin-top: 420px;
+  left: 430px;
+  background-color: #ffffff;
+}
+.rte{
+  text-align: center;
+  font-weight: 600;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 50px;
+  color: #444444;
+}
+.try{
+  font-weight: 600;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  color: #777777;
+}
+.rere{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 900;
+  position: absolute;
+  font-size: 35px;
+  margin-top: 60px;
+  left: 500px;
+  color: #ffffff;
+}
+.leg{
+  font-style: italic;
+  color: #ffffff;
+  font-size: 15px;
+  position: absolute;
+  left: 440px;
+  margin-top: 150px;
+}
+.fors{
+  left: 800px;
+  background-color: #ffffff;
+  position: absolute;
+  margin-top: 200px;
+  height: 300px;
+}
+.ere{
+  background-color: #213b52;
+  opacity: 0.5;
+  height: 400px;
 }
